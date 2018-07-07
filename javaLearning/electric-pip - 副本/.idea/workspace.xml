@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="electric-pip:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73c1d9f9-bb01-4847-91f1-27602c7049b2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../java0104/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Employee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Employee1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/EmployeeTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/EmployeeTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuice$FreshJuiceSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuice$FreshJuiceSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/FreshJuiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/HelloWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/HelloWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Puppy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java0104/out/production/java0104/chapter1/Puppy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0105/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java0105/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0110/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java0110/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java0111/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java0111/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>randomScalingFactor</find>
+      <find>canvas</find>
+      <find>newDateString</find>
+      <find>addData</find>
+      <find>randomizeData</find>
+      <find>addDataset</find>
+      <find>removeDataset</find>
+      <find>removeData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/ResponseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/PipController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/util/ResponseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/PipMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/datasource.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/service/PipService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/chart/utils.js" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electric-pip - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-pip - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23590332" />
+    <property name="settings.editor.selected.configurable" value="vcs.TFS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.hebut.edu.pip" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/js" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestVar2">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Count3Quit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count3Quit" />
+      <option name="VM_PARAMETERS" value="11" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestVar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestVar2" />
+      <option name="PROGRAM_PARAMETERS" value="-Xms768m -Xmx768m -XX:PermSize=64M -XX:MaxPermSize=512m " />
+      <option name="VM_PARAMETERS" value="-Xms768m -Xmx768m -XX:PermSize=64M -XX:MaxPermSize=512m " />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="pip" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk-10.0.1">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/index.jsp" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="electric-pip:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_electric-pip" />
+        <option name="HTTP_PORT" value="8082" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50577" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="electric-pip:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.pip" />
+      <item itemvalue="Application.Count3Quit" />
+      <item itemvalue="Application.TestVar2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestVar2" />
+        <item itemvalue="Application.Count3Quit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\李学亮\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c1d9f9-bb01-4847-91f1-27602c7049b2" name="Default" comment="" />
+      <created>1519876474848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519876474848</updated>
+      <workItem from="1519876476283" duration="5910000" />
+      <workItem from="1519886101406" duration="4672000" />
+      <workItem from="1519959716778" duration="4711000" />
+      <workItem from="1520477030710" duration="12136000" />
+      <workItem from="1520561329533" duration="1294000" />
+      <workItem from="1520599348624" duration="1646000" />
+      <workItem from="1520601627582" duration="931000" />
+      <workItem from="1522636175036" duration="1353000" />
+      <workItem from="1522742258404" duration="611000" />
+      <workItem from="1524190311779" duration="597000" />
+      <workItem from="1524286156648" duration="597000" />
+      <workItem from="1524397193974" duration="1197000" />
+      <workItem from="1524486693117" duration="405000" />
+      <workItem from="1524487136185" duration="2078000" />
+      <workItem from="1524537866486" duration="677000" />
+      <workItem from="1524622175658" duration="1373000" />
+      <workItem from="1524634314195" duration="1456000" />
+      <workItem from="1525704632214" duration="830000" />
+      <workItem from="1525755770603" duration="2414000" />
+      <workItem from="1525758803449" duration="425000" />
+      <workItem from="1525759252966" duration="63000" />
+      <workItem from="1525759339816" duration="84000" />
+      <workItem from="1525759464566" duration="273000" />
+      <workItem from="1525759762003" duration="1726000" />
+      <workItem from="1525761519498" duration="182000" />
+      <workItem from="1525761817579" duration="355000" />
+      <workItem from="1525762199457" duration="3266000" />
+      <workItem from="1526000470778" duration="10428000" />
+      <workItem from="1526439314446" duration="753000" />
+      <workItem from="1526466942401" duration="683000" />
+      <workItem from="1527488980472" duration="920000" />
+      <workItem from="1527496172884" duration="4427000" />
+      <workItem from="1527556318815" duration="595000" />
+      <workItem from="1527579903945" duration="2589000" />
+      <workItem from="1527766926838" duration="857000" />
+      <workItem from="1527924145244" duration="991000" />
+      <workItem from="1528715656617" duration="1854000" />
+      <workItem from="1530663864963" duration="2769000" />
+      <workItem from="1530846925751" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78311000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Application Servers" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="0" weight="0.21849866" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3281027" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32952926" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="0" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18632708" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32908848" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.3990878" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="5" weight="0.32952926" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3266762" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32952926" />
+      <window_info anchor="bottom" id="Find" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="1" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="Spring" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32863188" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32863188" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="0" weight="0.2191977" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25071633" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3295129" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Structure" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Debug" order="11" visible="true" weight="0.39915374" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/PipMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/service/PipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/Pip.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/util/ResponseUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/service/PipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipDao.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipDao.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.5.RELEASE/spring-web-4.0.5.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.0/mybatis-spring-1.2.0.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/util/ResponseUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chart/utils.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/PipMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/Pip.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/controller/PipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/dao/PipMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hebut/edu/pip/service/PipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery-3.0.0.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/chart/Chart.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://F:/电影/01第一部分 J2se学习视频/01阶段_马士兵_JavaSE基础第01章_JAVA简介_源代码_及重要说明/java/Array/Count3Quit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/电影/01第一部分 J2se学习视频/01阶段_马士兵_JavaSE基础第01章_JAVA简介_源代码_及重要说明/java/TestVar2.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>electric-pip:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>electric-pip</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23590332" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23590332" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
