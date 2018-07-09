@@ -29,10 +29,33 @@ print ("Is it less or equal?",5.0<=-2.0)#5小于-2吗
 
 
 print ("\n\n\n----------part three----------")
-
-
-
-
+#一共有100辆车
+cars = 100
+#每辆车可以坐4个人
+space_in_a_car = 4.0
+#有30个司机
+drivers = 30
+#有90个乘客
+passengers = 90
+#不能被驾驶的车辆
+cars_not_driven = cars - drivers
+#能够驾驶的车辆
+cars_driven = drivers
+#最多能够乘坐多少人
+carpool_capacity = cars_driven * space_in_a_car
+#每辆车上平均有多少乘客
+average_passengers_per_car = passengers / cars_driven
+print ("There are",cars,"cars available.")
+print ("There are",drivers,"drivers available.")
+print ("There will be",cars_not_driven,"empty cars today.")
+print ("You can transport",carpool_capacity,"people today")
+print ("We have",passengers,"to carpool today.")
+print ("We need to put about",average_passengers_per_car,"people in each car")
+#出现错误的原因是定义的是carpool_capacity而没有加分题中的_，所以显示变量没有被定义
+print ('\n')
+i = input()
+j = input()
+print ("i * j =",i * j)
 
 
 
